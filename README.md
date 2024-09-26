@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 # Password Generator
 This project is made using React and its hooks.
+The working link of this simple Project - https://manvendra2109.github.io/password/
